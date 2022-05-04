@@ -1,7 +1,7 @@
 Hi 👋 My name is Néstor Sánchez
 ===============================
 
-pringao
+Aspiring Game Programmer
 -------
 
 * 🌍  I'm based in Barcelona

@@ -6,6 +6,7 @@ Aspiring Game Programmer
 
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [nestor@tinet.org](mailto:nestor@tinet.org)
+* ✉️  You can see my portfolio at [nestorsaga.netlify.app]
 
 ### Skills
 

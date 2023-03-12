@@ -1,7 +1,7 @@
 Hi 👋 My name is Néstor Sánchez
 ===============================
 
-Aspiring Game Programmer
+Aspiring Technical Game Designer
 -------
 
 * 🌍  I'm based in Barcelona
